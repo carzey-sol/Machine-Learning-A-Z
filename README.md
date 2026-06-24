@@ -1,5 +1,7 @@
 # Machine Learning A-Z Learning Journey 🚀
 
+Hi, I'm Mukesh Bajgain, a Full-Stack Developer and AI/ML enthusiast from Nepal. I enjoy building modern web applications with React, Next.js, Node.js, and PostgreSQL while actively exploring Artificial Intelligence, Machine Learning, and Data Science. Passionate about continuous learning, problem-solving, and creating technology that makes a real-world impact.
+
 With my growing interest in Artificial Intelligence and Machine Learning, and the increasing impact of AI across industries, I started the **Machine Learning A-Z** course by **Kirill Eremenko and SuperDataScience Team**.
 
 This repository documents my learning journey, including projects, code implementations, key concepts learned, challenges faced, and progress made throughout the course.
